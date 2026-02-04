@@ -1,6 +1,6 @@
 # Hi, I'm Todd 👋
 
-📍 **Arizona, US** | 👨🏻‍💻 **Senior iOS Software Engineer** | 🏗️ **Swift, SwiftUI & Architecture**
+👨🏼‍💻 **Senior iOS Software Engineer** | 📱 **Swift, SwiftUI, AI** | 📍 **USA**
 
 > Building pixel-perfect iOS apps for millions at brands like Nike & Kohl's.
 
