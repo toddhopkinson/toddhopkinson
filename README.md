@@ -4,7 +4,7 @@
 
 > Building pixel-perfect iOS apps for millions at brands like Nike & Kohl's.
 
-![Claude AI](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=claude&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
