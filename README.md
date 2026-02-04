@@ -4,17 +4,17 @@
 
 > Building pixel-perfect iOS apps for millions at brands like Nike & Kohl's.
 
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat&logo=claude&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
+![AI Claude](https://custom-icon-badges.demolab.com/badge/AI%20Claude-000000?style=flat&logo=ai&logoColor=white)
 
 ## Connect
 
-- 🌐 [toddhopkinson.com](https://www.toddhopkinson.com)
-- 🐦‍⬛ [X / Twitter](https://x.com/toddhopkinson)
-- 💼 [LinkedIn](https://www.linkedin.com/in/toddhopkinson/)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.toddhopkinson.com)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/toddhopkinson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toddhopkinson/)
 
 <!--
 **toddhopkinson/toddhopkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
