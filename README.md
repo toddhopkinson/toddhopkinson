@@ -8,7 +8,7 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
-![AI Claude](https://custom-icon-badges.demolab.com/badge/AI%20Claude-000000?style=flat&logo=ai&logoColor=white)
+![AI Claude](https://img.shields.io/badge/AI%20Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Connect
 
