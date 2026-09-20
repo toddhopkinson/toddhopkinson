@@ -1,32 +1,19 @@
-# Hi, I'm Todd 🦾
+# Todd Hopkinson
 
-👨💻 **Senior Software Engineer** | 📱 **Swift, SwiftUI, iOS, AI** | 📍 **USA**
+**Founder, [Lava Monster Labs](https://lavamonster.io)** · Arizona
 
-> Building pixel-perfect iOS apps for millions at brands like Nike & Kohl's.
+I build agent-native products on Apple platforms — on-device models, MLX, and Swift agents that feel as crafty as the best native apps.
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
-![AI Claude](https://img.shields.io/badge/AI%20Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+Deep iOS/SwiftUI is the unfair advantage, not the whole story. Fifteen years shipping production software for Nike, SmartRent, and enterprise brands; now focused on where agents meet real products.
+
+## Now in Labs
+
+Public Labs for agent-native Apple are landing here and on [lavamonster.io](https://lavamonster.io) — on-device AI, MLX, and Swift agents built with production craft.
+
+## Track record
+
+Principal consultant & founder. Prior senior engineering at **Nike** and **SmartRent**. Client work across Deloitte, Life Time, Choice Hotels, and others — production mobile at scale.
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://www.toddhopkinson.com)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/toddhopkinson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toddhopkinson/)
-
-<!--
-**toddhopkinson/toddhopkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[lavamonster.io](https://lavamonster.io) · [toddhopkinson.com](https://toddhopkinson.com) · [LinkedIn](https://www.linkedin.com/in/toddhopkinson/) · [X](https://x.com/toddhopkinson)
