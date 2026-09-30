@@ -1,13 +1,17 @@
-# Todd Hopkinson
+<a href="https://lavamonster.io"><img src="assets/lava-monster.svg" alt="Lava Monster" width="100%"></a>
 
-**Founder, [Lava Monster Labs](https://lavamonster.io)** · Arizona
+### Native iOS for products that live or die on the iPhone.
+
+**Todd Hopkinson** · Founder, [Lava Monster](https://lavamonster.io) · Arizona
 
 I build **agent-native products** with deep Apple craft at the core — across software, hardware, and IoT.
 
-Fifteen years shipping production software for Nike, SmartRent, and enterprise brands, including device-connected work at the app ↔ hardware boundary.
+- **Nike FuelBand** · senior software engineer, and Nike’s point person for how the iPhone talked to the band over Bluetooth
+- **SmartRent** · client, through Lava Monster: the resident app the company was built around, from startup to NYSE listing
+- **General Dynamics C4 Systems** · nearly ten years building software for U.S. defense programs
 
-## Connect
+Client work across Deloitte, Life Time, Choice Hotels, and others.
 
-[lavamonster.io](https://lavamonster.io) · [toddhopkinson.com](https://toddhopkinson.com) · [LinkedIn](https://www.linkedin.com/in/toddhopkinson/) · [X](https://x.com/toddhopkinson)
+**Available for iOS work**, from architecture through App Store → [lavamonster.io](https://lavamonster.io) · [Book a discovery call](https://calendly.com/todd-lavamonster)
 
-Principal consultant & founder. Prior senior engineering at **Nike** and **SmartRent**. Client work across Deloitte, Life Time, Choice Hotels, and others.
+[X](https://x.com/toddhopkinson) · [LinkedIn](https://www.linkedin.com/in/toddhopkinson/) · [toddhopkinson.com](https://toddhopkinson.com)
