@@ -10,6 +10,6 @@ I build **agent-native products** with deep Apple craft at the core — across s
 
 Client work across Deloitte, Life Time, Choice Hotels, and others.
 
-**Available for iOS work**, from architecture through App Store → [lavamonster.io](https://lavamonster.io) · [Book a discovery call](https://calendly.com/todd-lavamonster)
+**Available for technological, creative, branding, and product consultations**, from architecture through App Store → [lavamonster.io](https://lavamonster.io) · [Book a discovery call](https://calendly.com/todd-lavamonster)
 
 [X](https://x.com/toddhopkinson) · [LinkedIn](https://www.linkedin.com/in/toddhopkinson/) · [toddhopkinson.com](https://toddhopkinson.com)
