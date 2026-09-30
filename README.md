@@ -1,7 +1,5 @@
 <a href="https://lavamonster.io"><img src="assets/lava-monster.svg" alt="Lava Monster" width="100%"></a>
 
-### Native iOS for products that live or die on the iPhone.
-
 **Todd Hopkinson** · Founder, [Lava Monster](https://lavamonster.io) · Arizona
 
 I build **agent-native products** with deep Apple craft at the core — across software, hardware, and IoT.
