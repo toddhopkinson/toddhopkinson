@@ -13,8 +13,8 @@ SRC, OUT = sys.argv[1], sys.argv[2]
 
 GROUND, INK = '#141A33', '#EEF0FA'                                      # site tokens: --ground, --ink
 IRIS = dict(centre='#fca5a5', middle='#ef4444', edge='#991b1b', rim='#450a0a')   # the site's red iris
-W, H = 1200, 200
-WM_W = 1000                                                             # the name's width in the banner
+W, H = 1200, 120
+WM_W = 500                                                              # the name's width in the banner
 
 # ---- The wordmark, straight from the site's SVG ------------------------------
 astro = open(SRC).read()
